@@ -1,0 +1,12 @@
+// var price = 30;
+// console.log(typeof price);
+var price = '30';
+// console.log(typeof price);
+var isHappy = true;
+// console.log(typeof isHappy);
+var num1 = .1;
+var num2 = .2;
+var sum = num1 + num2;
+sum = sum.toFixed(5);
+sum = parseFloat(sum);
+console.log(sum);

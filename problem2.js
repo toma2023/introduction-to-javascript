@@ -1,0 +1,11 @@
+var mathematics = 75.25;
+var biology = 65;
+var chemistry = 80;
+var physics = 99.50;
+var totalMarks = mathematics + biology + chemistry + physics;
+// console.log(totalMarks);
+var subjects = 4;
+var average = totalMarks / subjects;
+// console.log(average);
+average = average.toFixed(2);
+console.log(average);
