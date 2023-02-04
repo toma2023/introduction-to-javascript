@@ -7,7 +7,10 @@ var orangePrice = 20;
 var quantity = 7;
 var totalPrice = orangePrice * quantity;
 console.log(totalPrice);
-
+var money = 500;
+var player = 5;
+var eacPlayer = money / player;
+console.log(eacPlayer);
 
 
 // console.log(totalPrice);
